@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Travaux sur la ligne Dijon-Besançon",
+    "message": "Ralentissements entre Dole et Besançon jusqu'au 15/04",
+    "severity": "medium",
+    "lines": ["TER 87654", "TER 76543"],
+    "date": "2025-03-29"
+  },
+  {
+    "id": 2, 
+    "title": "Grève partielle",
+    "message": "Mouvement social prévu demain, suppression de 2 allers-retours",
+    "severity": "high",
+    "lines": ["TER 54321"],
+    "date": "2025-03-30"
+  }
+]
